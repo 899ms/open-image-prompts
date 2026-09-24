@@ -1,5 +1,5 @@
 {
-  "dataset_version": "2026-09-25-0306",
+  "dataset_version": "2026-09-25-0339",
   "taxonomy_version": "oip-visual-v2",
   "selection": "full public corpus; labeling process tables excluded",
   "counts": {
@@ -10,5 +10,5 @@
     "media_labels": 390594,
     "taxonomy_labels": 185
   },
-  "db_sha256": "63d648da642228687980adb643b15f56702542e05609ddfff56462b790b91790"
+  "db_sha256": "ac731b27f97afcc2b40a48834216aec22359440fc9017725910f11d49f248da2"
 }
